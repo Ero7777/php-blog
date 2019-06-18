@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: User
- * Date: 13.06.2019
- * Time: 19:08
- */
+
 $is_auth = (bool)rand(0, 1);
 $title= "title"
 ?>

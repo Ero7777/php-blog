@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: User
- * Date: 13.06.2019
- * Time: 19:10
- */
+
 $data = [
     [
         'link' => "blog.html",
